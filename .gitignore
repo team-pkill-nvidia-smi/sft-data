@@ -1,0 +1,3 @@
+# The packed tar is redundant with `samples.jsonl` + `images/` and exceeds
+# GitHub's 100MB per-file limit. It is regeneratable from the unpacked files.
+mix_v1_tar/train_00000.tar
